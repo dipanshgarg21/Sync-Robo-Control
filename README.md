@@ -1,0 +1,1 @@
+> Wireless communication between two Arduino-Nano based cars, being controlled by a single device, working in a sync through a wireless controller, following commands such as **"WASD" for 2D planar motion**, **simultaneously**.
